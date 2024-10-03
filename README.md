@@ -54,11 +54,11 @@ Esta é uma API desenvolvida em **TypeScript** utilizando **Express.js** para fo
 
 O projeto segue o padrão **MVC (Model-View-Controller)**, com a seguinte organização de pastas:
 
-/controllers # Controladores que processam as requisições 
-/models # Modelos do Mongoose representando dados de usuários e filmes 
-/services # Lógica de negócios separada dos controladores 
-/middleware # Middleware como autenticação e autorização 
-/routes # Definição das rotas da API
+- /controllers # Controladores que processam as requisições 
+- /models # Modelos do Mongoose representando dados de usuários e filmes 
+- /services # Lógica de negócios separada dos controladores 
+- /middleware # Middleware como autenticação e autorização 
+- /routes # Definição das rotas da API
 
 ### Modelos
 
